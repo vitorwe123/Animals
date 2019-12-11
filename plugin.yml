@@ -1,0 +1,5 @@
+name: Animals
+main: pack.Main
+version: 1.0
+description: Choose a animal to spawn.
+api-version: 1.14

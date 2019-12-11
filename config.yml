@@ -1,0 +1,10 @@
+Pig:
+  exp: 2
+  cooldown: 15
+Sheep:
+  exp: 3
+  cooldown: 30
+Cow:
+  exp: 5
+  cooldown: 60
+ItemMaterial: STICK
